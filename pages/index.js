@@ -19,17 +19,7 @@ const Lending = () => {
             >
               Lend
             </Button>
-            <img
-              className="self-stretch relative max-w-full overflow-hidden max-h-full"
-              alt=""
-              src="/line-29.svg"
-            />
           </div>
-          <img
-            className="w-0 relative h-[29px] object-contain"
-            alt=""
-            src="/line-35.svg"
-          />
           <div className="rounded-sm flex flex-row items-center justify-center p-2.5 box-border min-w-[128px] min-h-[50px] max-h-[50px]">
             <Button
               className="flex-1 relative opacity-[0.7]"
@@ -39,18 +29,8 @@ const Lending = () => {
             >
               Borrow
             </Button>
-            <img
-              className="w-[23.9px] relative h-[23.9px] hidden"
-              alt=""
-              src="/icons-24px3.svg"
-            />
-            <img className="w-2 relative h-0" alt="" />
+
           </div>
-          <img
-            className="w-0 relative h-[29px] object-contain"
-            alt=""
-            src="/line-35.svg"
-          />
           <div className="rounded-sm flex flex-row items-center justify-center p-2.5 box-border min-w-[128px] min-h-[50px] max-h-[50px]">
             <Button
               className="flex-1 relative opacity-[0.7]"
@@ -60,18 +40,7 @@ const Lending = () => {
             >
               Reform
             </Button>
-            <img
-              className="w-[23.9px] relative h-[23.9px] hidden"
-              alt=""
-              src="/icons-24px3.svg"
-            />
-            <img className="w-2 relative h-0" alt="" />
           </div>
-          <img
-            className="w-0 relative h-[29px] object-contain"
-            alt=""
-            src="/line-35.svg"
-          />
           <div className="rounded-sm flex flex-row items-center justify-center p-2.5 box-border min-w-[128px] min-h-[50px] max-h-[50px]">
             <Button
               className="flex-1 relative opacity-[0.7]"
@@ -81,18 +50,7 @@ const Lending = () => {
             >
               Profile
             </Button>
-            <img
-              className="w-[23.9px] relative h-[23.9px] hidden"
-              alt=""
-              src="/icons-24px3.svg"
-            />
-            <img className="w-2 relative h-0" alt="" />
           </div>
-          <img
-            className="w-0 relative h-[29px] object-contain"
-            alt=""
-            src="/line-35.svg"
-          />
           <div className="rounded-sm flex flex-row items-center justify-center p-2.5 box-border min-w-[128px] min-h-[50px] max-h-[50px]">
             <Button
               className="flex-1 relative opacity-[0.7]"
@@ -100,26 +58,17 @@ const Lending = () => {
               variant="text"
               sx={{ borderRadius: "0px 0px 0px 0px" }}
             >
-              Connect wallet
+              Connect Wallet
             </Button>
-            <img
-              className="w-[23.9px] relative h-[23.9px] hidden"
-              alt=""
-              src="/icons-24px4.svg"
-            />
-            <img className="w-2 relative h-0" alt="" />
           </div>
         </div>
       </div>
-      <div className="absolute top-[122px] left-[229px] w-[827px] flex flex-col items-start justify-start">
+      <div
+        className="absolute top-[122px] left-[229px] w-[827px] flex flex-col items-start justify-start">
         <h1 className="m-0 relative text-inherit font-normal font-inherit">
           Lending
         </h1>
       </div>
-      <div className="absolute top-[1205.2px] left-[1952.1px] rounded-[50%] [background:linear-gradient(136.23deg,_#027fff,_rgba(83,_2,_255,_0))] [filter:blur(160px)] w-[980px] h-[1182px] [transform:_rotate(177.87deg)] [transform-origin:0_0] opacity-[0.05]" />
-      <div className="absolute top-[193px] left-[-187px] rounded-[50%] [background:linear-gradient(136.23deg,_#027fff,_rgba(83,_2,_255,_0))] [filter:blur(160px)] w-[778px] h-[778px] opacity-[0.05]" />
-      <img className="absolute top-[336px] left-[1092px] w-6 h-6" alt="" />
-      <img className="absolute top-[336px] left-[1133px] w-6 h-6" alt="" />
       <div className="absolute top-[202px] left-[229px] w-[1270px] flex flex-col items-start justify-start gap-[24px] text-center text-base text-white font-book">
         <div className="self-stretch flex flex-row items-start justify-between text-right text-sm text-pale-purple">
           <div className="w-96 rounded box-border flex flex-row items-center justify-between p-2.5 border-[1px] border-solid border-pale-purple">
