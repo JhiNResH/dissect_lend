@@ -86,7 +86,6 @@ const Lending = () => {
         </div>
         <div className="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-10 gap-[8px]">
           <div className="self-stretch bg-row flex flex-row items-start justify-start py-4 px-5 text-left text-light-grey">
-            <img className="w-[27px] relative h-[27px]" alt="" />
             <div className="w-[263px] flex flex-row items-center justify-between py-0 pr-0 pl-[30px] box-border">
               <div className="flex flex-row items-center justify-start">
                 <img
