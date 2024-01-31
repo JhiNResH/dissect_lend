@@ -79,11 +79,7 @@ const Failed = () => {
           <img className="w-[27px] relative h-[27px]" alt="" />
           <div className="flex flex-row items-center justify-start py-0 pr-0 pl-[30px] gap-[152px]">
             <div className="flex flex-row items-center justify-start">
-              <img
-                className="w-6 relative h-6"
-                alt=""
-                src="/property-1arrow-drop-down-selectedon.svg"
-              />
+              <img className="w-6 relative h-6" alt="" src="/icons-24px.svg" />
               <div className="flex flex-row items-center justify-start gap-[8px]">
                 <div className="relative">{`Project `}</div>
                 <img
@@ -101,11 +97,7 @@ const Failed = () => {
           </div>
           <div className="flex flex-row items-center justify-start py-0 pr-0 pl-8 gap-[42px]">
             <div className="flex flex-row items-center justify-start">
-              <img
-                className="w-6 relative h-6"
-                alt=""
-                src="/property-1arrow-drop-down-selectedon.svg"
-              />
+              <img className="w-6 relative h-6" alt="" src="/icons-24px.svg" />
               <div className="flex flex-row items-center justify-start gap-[8px]">
                 <div className="relative">Liquidity</div>
                 <img
@@ -123,11 +115,7 @@ const Failed = () => {
           </div>
           <div className="w-[196px] flex flex-row items-center justify-start py-0 pr-0 pl-8 box-border gap-[71px]">
             <div className="flex flex-row items-center justify-start">
-              <img
-                className="w-6 relative h-6"
-                alt=""
-                src="/property-1arrow-drop-down-selectedon.svg"
-              />
+              <img className="w-6 relative h-6" alt="" src="/icons-24px.svg" />
               <div className="flex-1 flex flex-row items-center justify-start gap-[8px]">
                 <div className="relative">Fraction price</div>
                 <img
@@ -145,11 +133,7 @@ const Failed = () => {
           </div>
           <div className="w-[127px] flex flex-row items-center justify-start py-0 pr-0 pl-8 box-border gap-[10px]">
             <div className="flex flex-row items-center justify-start">
-              <img
-                className="w-6 relative h-6"
-                alt=""
-                src="/property-1arrow-drop-down-selectedon.svg"
-              />
+              <img className="w-6 relative h-6" alt="" src="/icons-24px.svg" />
               <div className="w-[94px] flex flex-row items-center justify-start gap-[8px]">
                 <div className="relative">APY</div>
                 <img
@@ -167,11 +151,7 @@ const Failed = () => {
           </div>
           <div className="flex flex-row items-center justify-start py-0 pr-0 pl-8">
             <div className="flex flex-row items-center justify-start">
-              <img
-                className="w-6 relative h-6"
-                alt=""
-                src="/property-1arrow-drop-down-selectedon.svg"
-              />
+              <img className="w-6 relative h-6" alt="" src="/icons-24px.svg" />
               <div className="flex flex-row items-center justify-start gap-[8px]">
                 <div className="relative">Floor Price</div>
                 <img

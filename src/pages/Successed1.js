@@ -5,7 +5,7 @@ const Successed1 = () => {
   const navigate = useNavigate();
 
   const onButtonContainer2Click = useCallback(() => {
-    navigate("/");
+    navigate("/successed");
   }, [navigate]);
 
   return (
@@ -33,7 +33,7 @@ const Successed1 = () => {
                 <img
                   className="w-6 relative h-6"
                   alt=""
-                  src="/property-1arrow-drop-down-selectedon.svg"
+                  src="/icons-24px.svg"
                 />
                 <div className="flex flex-row items-center justify-start gap-[8px]">
                   <div className="relative">{`Project `}</div>
@@ -55,7 +55,7 @@ const Successed1 = () => {
                 <img
                   className="w-6 relative h-6"
                   alt=""
-                  src="/property-1arrow-drop-down-selectedon.svg"
+                  src="/icons-24px.svg"
                 />
                 <div className="flex flex-row items-center justify-start gap-[8px]">
                   <div className="relative">Liquidity</div>
@@ -77,7 +77,7 @@ const Successed1 = () => {
                 <img
                   className="w-6 relative h-6"
                   alt=""
-                  src="/property-1arrow-drop-down-selectedon.svg"
+                  src="/icons-24px.svg"
                 />
                 <div className="flex-1 flex flex-row items-center justify-start gap-[8px]">
                   <div className="relative">Fraction Price</div>
@@ -99,7 +99,7 @@ const Successed1 = () => {
                 <img
                   className="w-6 relative h-6"
                   alt=""
-                  src="/property-1arrow-drop-down-selectedon.svg"
+                  src="/icons-24px.svg"
                 />
                 <div className="flex flex-row items-center justify-end gap-[8px]">
                   <div className="relative">APY</div>
@@ -121,7 +121,7 @@ const Successed1 = () => {
                 <img
                   className="w-6 relative h-6"
                   alt=""
-                  src="/property-1arrow-drop-down-selectedon.svg"
+                  src="/icons-24px.svg"
                 />
                 <div className="flex flex-row items-center justify-start gap-[8px]">
                   <div className="relative">Available Pools</div>
@@ -143,7 +143,7 @@ const Successed1 = () => {
                 <img
                   className="w-6 relative h-6"
                   alt=""
-                  src="/property-1arrow-drop-down-selectedon.svg"
+                  src="/icons-24px.svg"
                 />
                 <div className="flex flex-row items-center justify-start gap-[8px]">
                   <div className="relative">Pool Completion</div>

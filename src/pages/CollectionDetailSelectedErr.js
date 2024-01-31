@@ -170,7 +170,7 @@ const CollectionDetailSelectedErr = () => {
                     <img
                       className="w-6 relative h-6"
                       alt=""
-                      src="/property-1arrow-drop-down-selectedon.svg"
+                      src="/icons-24px.svg"
                     />
                     <div className="flex flex-row items-center justify-start gap-[8px]">
                       <div className="relative">Completion</div>
